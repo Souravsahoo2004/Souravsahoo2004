@@ -1,3 +1,5 @@
+![logo](https://github.com/Souravsahoo2004/Souravsahoo2004/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Sourav Sahoo</h1>
 <h3 align="center">A passionate Full stack Web Developer.</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
